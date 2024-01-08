@@ -1,0 +1,9 @@
+git clone "copy paste url"
+git status
+git add.
+git commit -m "first"
+git push -u origin master
+git 
+
+
+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
