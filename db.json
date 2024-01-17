@@ -1,0 +1,33 @@
+{
+  "students":[
+    {
+      "id":1,
+      "name":"student1",
+      "address":"address1"
+    },
+    {
+      "id":2,
+      "name":"student2",
+      "address":"address2"
+    },
+    {
+      "id":3,
+      "name":"student3",
+      "address":"address3"
+    },
+    {
+      "id":15,
+      "name":"some comments",
+      "address":5
+    },
+    {
+      "id":100,
+      "name":"some comments",
+      "address":5
+    },
+    {
+      "email":"abcxyz@gmail.com",
+      "Password":"abc@22"
+    }
+  ]
+}
